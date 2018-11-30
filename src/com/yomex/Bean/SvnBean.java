@@ -1,4 +1,4 @@
-package Bean;
+package com.yomex.Bean;
 
 public class SvnBean {
     private String url;

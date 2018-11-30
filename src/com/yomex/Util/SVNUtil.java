@@ -1,4 +1,4 @@
-package util;
+package com.yomex.Util;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Set;
 
-import Bean.SvnBean;
+import com.yomex.Bean.SvnBean;
 import org.tmatesoft.svn.core.SVNCommitInfo;
 import org.tmatesoft.svn.core.SVNDepth;
 import org.tmatesoft.svn.core.SVNException;

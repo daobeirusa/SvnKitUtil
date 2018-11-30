@@ -1,10 +1,10 @@
-package Test;
+package com.yomex.Test;
 
-import Bean.SvnBean;
+import com.yomex.Bean.SvnBean;
 import org.tmatesoft.svn.core.SVNDepth;
 import org.tmatesoft.svn.core.wc.SVNClientManager;
 import org.tmatesoft.svn.core.wc.SVNRevision;
-import util.SVNUtil;
+import com.yomex.Util.SVNUtil;
 
 import java.io.File;
 
